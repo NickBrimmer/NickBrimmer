@@ -3,7 +3,7 @@ Im Nick. I'm a full stack developer in Portland, Oregon. I have a passion for fr
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
 
-Feel free to browse some current portfolio projects: 
+## Feel free to browse some current portfolio projects: 
 1. A full stack React clothing store (https://full-stack-clothing-store.netlify.app/) codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
 2. An adventure tour guide website (https://nickbrimmer.github.io/natours-project-adv-css/)
 3. A small tech-education startup website (https://online-education-website.netlify.app/)
