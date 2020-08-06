@@ -9,7 +9,7 @@ Im Nick. I'm a full stack developer in Portland, Oregon. I have a passion for fr
 3. A small tech-education startup website (https://online-education-website.netlify.app/)
 
 <br>
-### I am also currently working through a 100 Algorithm Challenge in TypeScript: 
+## I am also currently working through a 100 Algorithm Challenge in TypeScript: 
 <br> 
 https://github.com/NickBrimmer/100-Algorithms-Challenge-TypeScript
 
