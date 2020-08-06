@@ -1,5 +1,5 @@
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
-<br> Hello! Im Nick. <br> I'm a full stack developer in Portland, Oregon. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and React. Know someone interested in a React or JavaScript developer? Reach out! Nickbrimmer@gmail.com
+<br> Hello! I'm Nick. <br> I'm a full stack developer in Portland, Oregon. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and React. Know someone interested in a React or JavaScript developer? Reach out! Nickbrimmer@gmail.com
 
 ### Feel free to browse some current portfolio projects: 
 1. A full stack React clothing store (https://full-stack-clothing-store.netlify.app/) codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
