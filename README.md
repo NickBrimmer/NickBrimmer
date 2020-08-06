@@ -8,7 +8,7 @@ Im Nick. I'm a full stack developer in Portland, Oregon. I have a passion for fr
 2. An adventure tour guide website (https://nickbrimmer.github.io/natours-project-adv-css/)
 3. A small tech-education startup website (https://online-education-website.netlify.app/)
 
-
+<br><br>
 
 I am also currently working through a 100 Algorithm Challenge in TypeScript: 
 https://github.com/NickBrimmer/100-Algorithms-Challenge-TypeScript
