@@ -1,5 +1,5 @@
-![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
 <img align="right" src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Product%20Hunt%2C%20Communication%2C%20Work%2C%20Topics%2C%20Makers.png"  width=350px height=365px/>
+![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
 <br> Hello, I'm Nick! <br> I'm a full stack developer in Portland, Oregon area. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and TypeScript. Know someone interested in a React or JavaScript/TypeScript developer? Reach out! Nickbrimmer@gmail.com
 
 
