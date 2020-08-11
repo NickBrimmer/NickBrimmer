@@ -6,12 +6,12 @@
 <br>
 I'm a full stack developer, and here's what I do and how I feel on any given day.
 <br>
-<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20on%20fire%2C%20hot%2C%20pancake%2C%20social.png"  width=100px height=100px/>
-<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20search%2C%20pancake%2C%20stack.png"  width=100px height=100px/>
-<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20caramel%2C%20pancake%2C%20social.png"  width=100px height=100px/>
-<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20connect%2C%20share%2C%20pancake%2C%20social.png"  width=100px height=100px/>
-<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20like%2C%20pancake%2C%20social.png"  width=100px height=100px/>
-<img rsc="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20message%2C%20communication%2C%20pancake%2C%20social.png"  width=100px height=100px/>
+<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20on%20fire%2C%20hot%2C%20pancake%2C%20social.png"  width=150px height=150px/>
+<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20search%2C%20pancake%2C%20stack.png"  width=150px height=150px/>
+<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20caramel%2C%20pancake%2C%20social.png"  width=150px height=150px/>
+<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20connect%2C%20share%2C%20pancake%2C%20social.png"  width=150px height=150px/>
+<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20like%2C%20pancake%2C%20social.png"  width=150px height=150px/>
+<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20message%2C%20communication%2C%20pancake%2C%20social.png"  width=150px height=150px/>
 
 <br>
 ### Feel free to browse some current portfolio projects: 
