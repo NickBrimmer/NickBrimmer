@@ -13,7 +13,7 @@ I'm a full stack developer, <strong> here's what I do and how I feel on any give
 <img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20on%20fire%2C%20hot%2C%20pancake%2C%20social.png"  width=200px height=200px/>
 <img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20search%2C%20pancake%2C%20stack.png"  width=200px height=200px/>
 <img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20caramel%2C%20pancake%2C%20social.png"  width=200px height=200px/>
-<img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20connect%2C%20share%2C%20pancake%2C%20social.png"  width=200px height=200px/>
+
 
 
 ### Feel free to browse some current portfolio projects: 
