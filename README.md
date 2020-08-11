@@ -3,9 +3,9 @@
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
 
 <br> Hello, I'm Nick! <br> I'm a full stack developer in Portland, Oregon area. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and TypeScript. Know someone interested in a React or JavaScript/TypeScript developer? Reach out! Nickbrimmer@gmail.com
-<br>
+<br><br>
 I'm a full stack developer, and here's what I do and how I feel on any given day.
-<br><br><br>
+<br>
 <img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20on%20fire%2C%20hot%2C%20pancake%2C%20social.png"  width=125px height=125px/>
 <img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20search%2C%20pancake%2C%20stack.png"  width=125px height=125px/>
 <img src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Yourstack%2C%20caramel%2C%20pancake%2C%20social.png"  width=125px height=125px/>
