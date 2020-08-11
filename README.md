@@ -1,7 +1,7 @@
+![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
+
 <img align="right" src="https://github.com/NickBrimmer/NickBrimmer/blob/master/Product%20Hunt%2C%20Communication%2C%20Work%2C%20Topics%2C%20Makers.png"  width=320px height=320px/>
 <br>
-
-![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
 
 ### <br> Hello, I'm Nick! 
 
