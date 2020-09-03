@@ -2,7 +2,7 @@
 
 ### <br> Hello, I'm Nick! 
 
-<br> I'm a full stack developer in Portland, Oregon area. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and TypeScript. Know someone interested in a React or JavaScript/TypeScript developer? Reach out! Nickbrimmer@gmail.com
+I'm a full stack developer in Portland, Oregon area. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and TypeScript. Know someone interested in a React or JavaScript/TypeScript developer? Reach out! Nickbrimmer@gmail.com
 <br><br>
 
 
