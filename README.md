@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbrimmer&layout=compact](https://github.com/aramirezdecruz3148/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbrimmer&layout=compact]
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickbrimmer&hide=stars)
 
 ### <br> Hello, I'm Nick! 
