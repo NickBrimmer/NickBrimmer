@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbrimmer&layout=compact)](https://github.com/nickbrimmer/github-readme-stats)
 
 
-### <br> Hello, I'm Nick! 
+### <br> Hello, I'm Nick!
 
 I'm a full stack developer in Portland, Oregon area. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and TypeScript. Know someone interested in a React or JavaScript/TypeScript developer? Reach out! Nickbrimmer@gmail.com
 <br><br>
