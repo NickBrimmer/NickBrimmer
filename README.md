@@ -14,7 +14,8 @@ I'm a full stack developer in Portland, Oregon area. I have a passion for front 
 3. A small tech-education startup website (https://online-education-website.netlify.app/)
 4. A mobile responsive food website (https://anotherfoodwebsite.netlify.app/)
 
-### I am also currently working through a 100 Algorithm Challenge in TypeScript: 
+
+### Proud to say that on September 19th, 2020 I completed 100 Algorithm Challenge in TypeScript: 
 
 https://github.com/NickBrimmer/100-Algorithms-Challenge-TypeScript
 
