@@ -11,9 +11,9 @@ Reach out at Nickbrimmer@gmail.com
 
 
 ### Feel free to browse some current portfolio projects: 
-1. A full stack React clothing store (https://full-stack-clothing-store.netlify.app/) codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
-2. An adventure tour guide website (https://nickbrimmer.github.io/natours-project-adv-css/)
-3. A small tech-education startup website (https://online-education-website.netlify.app/)
+1. My portfolio site is deployed using Gatsby and GraphQl (https://nickbrimmer.dev/), codebase: https://github.com/NickBrimmer/nick-codes.com2.0
+2. A full stack React clothing store (https://full-stack-clothing-store.netlify.app/) codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
+
 4. A mobile responsive food website (https://anotherfoodwebsite.netlify.app/)
 
 
