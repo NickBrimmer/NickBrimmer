@@ -11,10 +11,10 @@ Reach out at Nickbrimmer@gmail.com
 
 
 ### Feel free to browse some current portfolio projects: 
-1. My portfolio site is deployed using Gatsby and GraphQl (https://nickbrimmer.dev/), codebase: https://github.com/NickBrimmer/nick-codes.com2.0
+1. My portfolio site is deployed using Gatsby and GraphQL (https://nickbrimmer.dev/), codebase: https://github.com/NickBrimmer/nick-codes.com2.0
 2. A full stack React clothing store (https://full-stack-clothing-store.netlify.app/), codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
 3. I'm passionate about food, so I made a react website for it (https://tastyfoodwebsite.netlify.app/), codebase: https://github.com/NickBrimmer/tastyfood.com
-4. A mobile responsive food website (https://anotherfoodwebsite.netlify.app/)
+
 
 
 ### Proud to say that on September 19th, 2020 I completed 100 Algorithm Challenge in TypeScript: 
