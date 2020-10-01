@@ -13,7 +13,7 @@ Reach out at Nickbrimmer@gmail.com
 <br><br>
 
 ## I am currently migrating a legacy React eCommerce store to TypeScript:
-https://full-stack-clothing-store.netlify.app/), codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
+https://full-stack-clothing-store.netlify.app, codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
 <br>
 <br>
 
