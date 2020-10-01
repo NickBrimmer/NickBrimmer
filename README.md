@@ -12,11 +12,15 @@ If you're here, you should also checkout my portfolio site: https://nickbrimmer.
 Reach out at Nickbrimmer@gmail.com
 <br><br>
 
+## I am currently migrating a legacy React eCommerce store to TypeScript:
+https://full-stack-clothing-store.netlify.app/), codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
+<br>
+
+
 
 ### Feel free to browse some current portfolio projects: 
 1. My portfolio site is deployed using Gatsby and GraphQL (https://nickbrimmer.dev/), codebase: https://github.com/NickBrimmer/nick-codes.com2.0
-2. A full stack React clothing store (https://full-stack-clothing-store.netlify.app/), codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
-3. I'm passionate about food, so I made a react website for it (https://tastyfoodwebsite.netlify.app/), codebase: https://github.com/NickBrimmer/tastyfood.com
+2. I'm passionate about food, so I made a react website for it (https://tastyfoodwebsite.netlify.app/), codebase: https://github.com/NickBrimmer/tastyfood.com
 <br>
 
 ### I also really like animation libraries:
