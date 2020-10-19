@@ -11,9 +11,8 @@ If you're here, you should also checkout my portfolio site: https://nickbrimmer.
 Reach out at Nickbrimmer@gmail.com
 <br><br>
 
-## I am currently migrating a legacy React eCommerce store to TypeScript:
-https://typescript-ecommerce.netlify.app/ <br>
-legacy site here: https://full-stack-clothing-store.netlify.app, codebase: https://github.com/NickBrimmer/TypeScript-eCommerce-Site
+## I am currently building eCommerce store in TypeScript and React:
+https://typescript-ecommerce.netlify.app/ codebase: https://github.com/NickBrimmer/TypeScript-eCommerce-Site
 <br>
 <br>
 
