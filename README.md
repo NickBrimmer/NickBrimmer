@@ -28,7 +28,3 @@ https://typescript-ecommerce.netlify.app/ codebase: https://github.com/NickBrimm
 https://animatedsplashpage.netlify.app/
 <br>
 
-### Proud to say that on September 19th, 2020 I completed 100 Algorithm Challenge in TypeScript: 
-
-https://github.com/NickBrimmer/100-Algorithms-Challenge-TypeScript
-
