@@ -11,8 +11,8 @@ If you're here, you should also checkout my portfolio site: https://nickbrimmer.
 Reach out at Nickbrimmer@gmail.com
 <br><br>
 
-## I am currently building eCommerce store in TypeScript and React:
-https://typescript-ecommerce.netlify.app/ codebase: https://github.com/NickBrimmer/TypeScript-eCommerce-Site
+## I am currently building eCommerce store in React with Redux:
+https://full-stack-clothing-store.netlify.app/ codebase: https://github.com/NickBrimmer/full-stack-react-clothing-store
 <br>
 <br>
 
