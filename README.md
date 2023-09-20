@@ -4,7 +4,7 @@
 
 I'm a front end developer in Portland, Oregon area. I have a passion for front end engineering (I love React). I spend my time creating and tinkering in JavaScript and TypeScript. Know someone interested in a React or JavaScript/TypeScript developer? 
 <br><br>
-If you're here, you should also checkout my portfolio site: https://nickbrimmer.dev/
+If you're here, you should also checkout my portfolio site: https://nickbrimmer.com/
 <br>
 
 Reach out at Nickbrimmer@gmail.com
